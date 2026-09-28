@@ -1,0 +1,10 @@
+﻿__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+venv/
+.venv/
+tuner_results/
+
+datasets/X_train_seq.npy
+datasets/X_test_seq.npy

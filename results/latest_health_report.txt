@@ -1,0 +1,8 @@
+WIND TURBINE HEALTH REPORT
+===================================
+Report Time: 2026-08-20 20:14:20
+Model: BO-BiLSTM
+Health Score: 40.51 / 100
+Health Status: WARNING
+Top Features: Vibration Z, Vibration X, Vibration Y
+Recommendation: Possible bearing or gearbox degradation detected. Inspect these important parameters: Vibration Z, Vibration X, Vibration Y. Schedule maintenance soon.

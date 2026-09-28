@@ -1,0 +1,8 @@
+BO-BiGRU WIND TURBINE HEALTH REPORT
+========================================
+Report Time: 2026-08-20 20:35:12
+Model: BO-BiGRU
+Health Score: 99.98 / 100
+Health Status: HEALTHY
+Top Features: Oil Pressure, Vibration Z, Vibration Y
+Recommendation: Turbine condition is healthy. Continue normal SCADA monitoring and scheduled maintenance.

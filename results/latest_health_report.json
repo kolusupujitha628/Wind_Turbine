@@ -1,0 +1,14 @@
+{
+    "report_time": "2026-08-20 20:14:20",
+    "model": "BO-BiLSTM",
+    "mode": "Software Demo using latest SCADA sequence",
+    "top_shap_features": [
+        "Vibration Z",
+        "Vibration X",
+        "Vibration Y"
+    ],
+    "anomaly_probability": 0.5949,
+    "health_score": 40.51,
+    "health_status": "WARNING",
+    "maintenance_recommendation": "Possible bearing or gearbox degradation detected. Inspect these important parameters: Vibration Z, Vibration X, Vibration Y. Schedule maintenance soon."
+}
